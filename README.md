@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Django, WebRTC, Web3**
 
-- 👯 I’m looking to collaborate on **Python Django Framework**
+- 👯 I’m looking to collaborate on **GSoC 2024**
 
 - 👨‍💻 All of my projects are available at [kabirmehbub.in](kabirmehbub.in)
 
